@@ -36,3 +36,4 @@ models/
 # OS
 .DS_Store
 *.log
+outputs/
